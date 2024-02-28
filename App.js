@@ -17,4 +17,4 @@ if(nilaiTombol == "C"){
 }else{
   layar.value = layar.value + nilaiTombol;
  }
-}};
+});
